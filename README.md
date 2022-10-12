@@ -1,1 +1,1 @@
-# rubiks
+# A CLI Rubiks Cube Simulator
